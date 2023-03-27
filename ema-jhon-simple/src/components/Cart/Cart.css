@@ -1,0 +1,21 @@
+.cart{
+    color: black;
+    background-color: #FFE0B3;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+.cart p {
+    font-size: 17px;
+    margin-left: 23px;
+    color: #2A414F;
+}
+.cart h6 , h4 {
+    font-family: 'Lato';
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0.0015em;
+    text-align: center;
+    margin-top: 23px;
+    color: #1C2B35;
+}
